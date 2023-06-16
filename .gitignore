@@ -1,0 +1,5 @@
+bin
+obj
+.idea
+debug
+appsettings.json
